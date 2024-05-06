@@ -1,3 +1,3 @@
 # Жизнь в Германии
 
-- [Оформить паспорт для ребенка](./howto-request-kz-passport.md)
+- [Оформить паспорт РК](./howto/request-kz-passport.md)
