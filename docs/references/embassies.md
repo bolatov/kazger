@@ -1,3 +1,7 @@
+---
+id: embassies
+---
+
 # Посольства и представительства РК в ФРГ
 
 ### Botschaft der Republik Kasachstan

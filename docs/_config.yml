@@ -13,7 +13,8 @@ sidebar:
       - request-kz-passport
       - transfer-drivers-license
       - invite-relatives
-        #  - label: Ссылки
-        #    children:
-        #      - em
+  - label: Ссылки
+    children:
+      - translators
+      - embassies
 
