@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Подтвердить водительские права
+id: transfer-drivers-license
 ---
 
 # Подтвердить водительские права

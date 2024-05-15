@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Пригласить близких
+id: invite-relatives
 ---
 
 # Пригласить близких

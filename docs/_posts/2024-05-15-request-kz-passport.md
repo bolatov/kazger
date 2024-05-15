@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Оформить паспорт РК
+id: request-kz-passport
 ---
 
 # Оформить паспорт Республики Казахстан

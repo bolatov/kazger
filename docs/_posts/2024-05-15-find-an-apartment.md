@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Найти жилье
+id: find-an-apartment
 ---
 
 # Найти жилье

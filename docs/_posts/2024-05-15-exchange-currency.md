@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Обменять валюту
+id: exchange-currency
 ---
 
 # Обменять валюту
