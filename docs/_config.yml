@@ -1,13 +1,19 @@
-title: Жизнь в Германии
+title: KazGer
 markdown: kramdown
 
 # https://zendesk.github.io/jekyll-theme-zendesk-garden/getting_started.html
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 search_enabled: true
+auto_page_title: true
 sidebar:
-  - find-an-apartment
-  - exchange-currency
-  - request-kz-passport
-  - transfer-drivers-license
-  - invite-relatives
+  - label: Статьи 
+    children:
+      - find-an-apartment
+      - exchange-currency
+      - request-kz-passport
+      - transfer-drivers-license
+      - invite-relatives
+        #  - label: Ссылки
+        #    children:
+        #      - em
 
