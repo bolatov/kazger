@@ -8,6 +8,7 @@ auto_page_title: false
 sidebar:
   - label: Статьи 
     children:
+      - travel-for-medical-care
       - find-an-apartment
       - exchange-currency
       - purchase-medical-insurance
@@ -19,4 +20,5 @@ sidebar:
     children:
       - translators
       - embassies
+      - national-cuisine
 
