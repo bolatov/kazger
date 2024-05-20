@@ -12,7 +12,7 @@ id: request-negativbescheinigung
 
 1. Идите на страницу: <https://www.berlin.de/einwanderung/ueber-uns/kontakt/formular.1394756.php>
 2. Заполните все необходимые поля в формуляре.
-3. В разделе темы выберите наиболее подходящий ![вариант](../images/request-negativbescheinigung.jpeg)
+3. В разделе темы выберите наиболее подходящий ![вариант](../images/request-negativbescheinigung.jpg)
 
 
 ## Шаг 3: Отправка формы
