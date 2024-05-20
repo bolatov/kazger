@@ -12,7 +12,7 @@ id: request-negativbescheinigung
 1. **Соберите все нужные документы** в один PDF файл. В PDF файл должны входить:
    - Копия паспорта
    - Копия Aufenthaltstitel
-   - [Antragsformular](https://docs.google.com/document/d/1bLAyp23piqqyPrCeiw-gJRHhRcRGY4oeO8POlzoJjqM/edit)
+   - [Antragsformular](https://docs.google.com/document/d/1bLAyp23piqqyPrCeiw-gJRHhRcRGY4oeO8POlzoJjqM/edit){:target="_blank"}
    - Копия свидетельства о рождении (Geburtsurkunde)
 
 ## Шаг 2: Заполнение онлайн формуляра
