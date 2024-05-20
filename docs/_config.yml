@@ -9,17 +9,17 @@ sidebar:
   - label: Статьи 
     children:
       - travel-for-medical-care
-      - find-an-apartment
+      # - find-an-apartment
       - exchange-currency
       - purchase-medical-insurance
-      - request-kz-passport
-      - register-child-birth
-      - transfer-drivers-license
+      #- request-kz-passport
+      #- register-child-birth
+      #- transfer-drivers-license
       - request-negativbescheinigung
       - invite-relatives
   - label: Полезные ссылки
     children:
       - translators
       - embassies
-      - national-cuisine
+      #- national-cuisine
 
