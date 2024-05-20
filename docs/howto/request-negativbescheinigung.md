@@ -2,7 +2,7 @@
 id: request-negativbescheinigung
 ---
 
-# Как получить Negativbescheinigung
+# Получить Negativbescheinigung
 
 ## Шаг 1: Подготовка документов
 
