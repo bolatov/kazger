@@ -15,6 +15,7 @@ sidebar:
       - request-kz-passport
       - register-child-birth
       - transfer-drivers-license
+      - request-negativbescheinigung
       - invite-relatives
   - label: Полезные ссылки
     children:
